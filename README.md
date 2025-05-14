@@ -23,14 +23,14 @@
 
 ### 🧰 Frameworks & Libraries:
 ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) ![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg) ![Nextjs](https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg)
-![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) ![React Router](https://www.vectorlogo.zone/logos/reactrouter/reactrouter-icon.svg)
 
 ### 🗄️ Database:
 ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg) ![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
 ![MYSQL](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg) ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ![Supabase](https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg)
 
 ### 🛠️ Tools & Platforms:
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![Vercel](https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg) ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) ![Notion](https://github.com/simple-icons/simple-icons/blob/master/icons/notion.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![Vite](https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg) ![Vercel](https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg) ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)  ![Bitwarden](https://www.vectorlogo.zone/logos/bitwarden/bitwarden-icon.svg)
 
 ### 🎨 Design:
 ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
@@ -48,8 +48,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 </p>
-
- ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=moeedrafi&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=moeedrafi&theme=react&hide_border=false)<br/>
