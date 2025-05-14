@@ -16,7 +16,7 @@
 <a href="https://www.leetcode.com/moeedrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moeedrafi" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
+# 💻 My Development Arsenal:
 ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg) ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) ![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg) ![Nextjs](https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg) ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg) ![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg) ![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
 
 ![MYSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
