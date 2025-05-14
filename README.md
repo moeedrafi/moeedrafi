@@ -19,16 +19,18 @@
 # 💻 My Development Arsenal:
 
 ### Languages:
-![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg) ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) ![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg) ![Nextjs](https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg) ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg) ![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg) ![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-
-![MYSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg) ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg) ![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg) ![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg)
 
 ### Frameworks & Libraries:
-
+![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) ![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg) ![Nextjs](https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg)
+![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
 
 ### Database:
+![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg) ![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
+![MYSQL](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg)
 
 ### Tools & Platforms:
+
 
 ### Design:
 
