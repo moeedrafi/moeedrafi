@@ -38,7 +38,9 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=moeedrafi&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=moeedrafi&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moeedrafi&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=moeedrafi&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
