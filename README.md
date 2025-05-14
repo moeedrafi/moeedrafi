@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **moeedrafi@gmail.com**
 
-- 📄 Know about my experiences(https://drive.google.com/file/d/1ZEX0Bz1smGZq2P24Xzv9tkENFbBFUGIz/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1ZEX0Bz1smGZq2P24Xzv9tkENFbBFUGIz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
