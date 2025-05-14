@@ -18,7 +18,7 @@
 </p>
 
 # 💻 Tech Stack:
-![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
+![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) ![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg)
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="60"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
