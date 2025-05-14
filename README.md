@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Moeed Rafi</h1>
 <h3 align="center">A passionate frontend/fullstack developer from Pakistan</h3>
 
